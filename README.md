@@ -6,4 +6,5 @@ More details are available at https://www.kaggle.com/competitions/pdfvqa/overvie
 
 End-to-end jupyter notebook: [train_test_memsum_dqa.ipynb](train_test_memsum_dqa.ipynb)
 
-![Memsum-DQA drawio (1)](https://github.com/nianlonggu/MemSum-DQA/assets/40075166/af654b53-c94c-4d7c-813c-b54f448262a6)
+
+![Memsum-DQA](https://github.com/nianlonggu/MemSum-DQA/assets/40075166/6b65289e-5466-44db-85b5-aa2a29af0c46)

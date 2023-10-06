@@ -5,4 +5,4 @@ The code and data for the Kaggle Competition PDF-VQA of The first Workshop on Do
 
 More details are available at https://www.kaggle.com/competitions/pdfvqa/overview  and  https://doc-iu.github.io/#three
 
-End-to-end jupyter notebook: 
+End-to-end jupyter notebook: [train_test_memsum_dqa.ipynb](train_test_memsum_dqa.ipynb)

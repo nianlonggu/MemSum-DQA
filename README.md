@@ -3,7 +3,7 @@
 
 The code and data for the Kaggle Competition PDF-VQA of The first Workshop on Document Intelligence and Understanding (DocIU) in conjunction with the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023) in Birmingham, UK.
 
-MemSum-DQA was ranked **1st** in the Kaggle Competition PDF-VQA: https://www.kaggle.com/competitions/pdfvqa/overview
+MemSum-DQA was ranked **1st** in the Kaggle Competition PDF-VQA!
 
 More details are available at https://www.kaggle.com/competitions/pdfvqa/overview  and  https://doc-iu.github.io/#three
 
